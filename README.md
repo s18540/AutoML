@@ -1,1 +1,2 @@
 # AutoML
+Rozwiązania zadań
